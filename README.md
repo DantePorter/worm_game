@@ -15,6 +15,6 @@
   5) How to design and implement a client-server archeticture
   
 # Getting started
-  Run wormGame.py using a python interpreter 3 plus and (make sure pygame is installed using pip). For multiplayer the wormServer.py must be running
+  Run wormGame.py using a python interpreter 3 plus and make sure pygame is installed using pip. For multiplayer the wormServer.py must be running
   then the players (after running wormGame.py) can play locally.
   
